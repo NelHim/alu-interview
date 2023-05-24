@@ -27,4 +27,3 @@ def minOperations(n):
             character += copy
             min_ops += 1
     return min_ops
-    
